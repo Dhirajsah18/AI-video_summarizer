@@ -47,6 +47,26 @@ An AI-powered web application that automatically converts long videos into conci
 7. Results are sent back to the frontend
 
 ---
+## Structure
+```
+AI-video_summarizer/
+├── backend/
+│ ├── utils/
+│ ├── main.py
+│ ├── requirements.txt
+│ └── .env.example
+│
+├── frontend/
+│ ├── public/
+│ ├── src/
+│ ├── index.html
+│ ├── package.json
+│ └── vite.config.js
+│
+├── .gitignore
+└── README.md
+```
+---
 ## Screenshots
 ### Frontend
 ![frontend](https://github.com/user-attachments/assets/d7104ccb-dc25-45a3-8d44-19edaafedec1)
