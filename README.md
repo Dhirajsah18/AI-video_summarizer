@@ -1,4 +1,4 @@
-# AI Video Summarizer
+# Intelligent_Video_Summarization_Platform
 
 An AI-powered web application that automatically converts long videos into concise and meaningful summaries using modern Speech Recognition and Natural Language Processing models.
 
